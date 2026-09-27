@@ -1,0 +1,197 @@
+{
+  "lessons": [
+    {
+      "id": 4,
+      "title": "Lesson 4",
+      "fullText": [
+        {
+          "page": "p.88",
+          "paragraphs": [
+            [
+              "The monster is following you.",
+              "You have to cross a bridge to survive.",
+              "The angry monster will catch up with you in 17 minutes."
+            ],
+            [
+              "Each member of your group moves at a different speed.",
+              "You are the fastest.",
+              "You can cross the bridge in just 1 minute.",
+              "The archer needs 2 minutes to cross, and the knight needs 5 minutes.",
+              "The wizard is the slowest.",
+              "She needs 10 minutes to cross."
+            ]
+          ]
+        },
+        {
+          "page": "p.89",
+          "paragraphs": [
+            [
+              "You need to remember a few things.",
+              "It is so dark that you need the light from the magic stone to cross the bridge.",
+              "The bridge is not very strong, so only two of you can cross safely at a time.",
+              "All of you must reach the other side of the bridge in 17 minutes.",
+              "If you all get there, you can cut the ropes.",
+              "This way, the monster cannot follow you."
+            ],
+            [
+              "How can everyone cross the bridge in 17 minutes?",
+              "The answer is on the next page.",
+              "Take a moment to think before you check the answer.",
+              "Have you figured it out?",
+              "Then turn the page."
+            ]
+          ]
+        },
+        {
+          "page": "p.90 · Solution",
+          "paragraphs": [
+            [
+              "Here is the solution.",
+              "First, you and the archer take the stone and cross together.",
+              "It takes 2 minutes."
+            ],
+            [
+              "You come back alone with the stone in just 1 minute.",
+              "Now, 3 minutes have passed."
+            ],
+            [
+              "Next, the knight and the wizard take the stone and cross the bridge in 10 minutes.",
+              "Now, 13 minutes have passed.",
+              "Only 4 minutes are left, and you are on the starting side."
+            ],
+            [
+              "Now the archer takes the stone and returns to you in 2 minutes.",
+              "15 minutes have passed."
+            ],
+            [
+              "Finally, you and the archer cross together in 2 minutes.",
+              "That is it!",
+              "Now everyone is on the other side!",
+              "You quickly cut the ropes of the bridge.",
+              "Everyone is safe, and the magic stone is yours!"
+            ]
+          ]
+        }
+      ],
+      "restore": [
+        {
+          "title": "p.88 · 도입",
+          "sentences": [
+            {"en":"The monster is following you.","ko":"그 괴물이 / 너를 따라오고 있다."},
+            {"en":"You have to cross a bridge to survive.","ko":"너는 다리를 건너야만 한다 / 살아남기 위해서."},
+            {"en":"The angry monster will catch up with you in 17 minutes.","ko":"그 화난 괴물은 너를 따라잡을 것이다 / 17분 안에."}
+          ]
+        },
+        {
+          "title": "p.88 · 이동 속도",
+          "sentences": [
+            {"en":"Each member of your group moves at a different speed.","ko":"너희 무리의 각 구성원은 / 서로 다른 속도로 움직인다."},
+            {"en":"You are the fastest.","ko":"네가 가장 빠르다."},
+            {"en":"You can cross the bridge in just 1 minute.","ko":"너는 그 다리를 건널 수 있다 / 단 1분 만에."},
+            {"en":"The archer needs 2 minutes to cross, and the knight needs 5 minutes.","ko":"그 궁수는 2분이 필요하다 / 건너는 데 / 그리고 그 기사는 5분이 필요하다."},
+            {"en":"The wizard is the slowest.","ko":"그 마법사는 가장 느리다."},
+            {"en":"She needs 10 minutes to cross.","ko":"그녀는 10분이 필요하다 / 건너는 데."}
+          ]
+        },
+        {
+          "title": "p.89 · 규칙",
+          "sentences": [
+            {"en":"You need to remember a few things.","ko":"너는 기억할 필요가 있다 / 몇 가지를."},
+            {"en":"It is so dark that you need the light from the magic stone to cross the bridge.","ko":"너무 어둡다 / 그래서 너는 마법의 돌에서 나오는 빛이 필요하다 / 그 다리를 건너기 위해서."},
+            {"en":"The bridge is not very strong, so only two of you can cross safely at a time.","ko":"그 다리는 그다지 튼튼하지 않다 / 그래서 너희 중 오직 두 명만 / 안전하게 건널 수 있다 / 한 번에."},
+            {"en":"All of you must reach the other side of the bridge in 17 minutes.","ko":"너희 모두는 도착해야 한다 / 다리의 반대편에 / 17분 안에."},
+            {"en":"If you all get there, you can cut the ropes.","ko":"만약 너희 모두가 그곳에 도착하면 / 너희는 밧줄을 자를 수 있다."},
+            {"en":"This way, the monster cannot follow you.","ko":"이렇게 하면 / 그 괴물은 너희를 따라올 수 없다."}
+          ]
+        },
+        {
+          "title": "p.89 · 생각하기",
+          "sentences": [
+            {"en":"How can everyone cross the bridge in 17 minutes?","ko":"어떻게 모두가 그 다리를 건널 수 있을까 / 17분 안에?"},
+            {"en":"The answer is on the next page.","ko":"정답은 있다 / 다음 페이지에."},
+            {"en":"Take a moment to think before you check the answer.","ko":"잠시 시간을 가져라 / 생각하기 위해 / 정답을 확인하기 전에."},
+            {"en":"Have you figured it out?","ko":"너는 그것을 알아냈는가?"},
+            {"en":"Then turn the page.","ko":"그렇다면 페이지를 넘겨라."}
+          ]
+        },
+        {
+          "title": "p.90 · 해결 1–2",
+          "sentences": [
+            {"en":"Here is the solution.","ko":"여기에 해결 방법이 있다."},
+            {"en":"First, you and the archer take the stone and cross together.","ko":"먼저 / 너와 궁수가 / 그 돌을 가지고 / 함께 건넌다."},
+            {"en":"It takes 2 minutes.","ko":"그것은 2분이 걸린다."},
+            {"en":"You come back alone with the stone in just 1 minute.","ko":"너는 혼자 돌아온다 / 그 돌을 가지고 / 단 1분 만에."},
+            {"en":"Now, 3 minutes have passed.","ko":"이제 / 3분이 지났다."}
+          ]
+        },
+        {
+          "title": "p.90 · 해결 3",
+          "sentences": [
+            {"en":"Next, the knight and the wizard take the stone and cross the bridge in 10 minutes.","ko":"다음으로 / 기사와 마법사가 / 그 돌을 가지고 / 다리를 건넌다 / 10분 만에."},
+            {"en":"Now, 13 minutes have passed.","ko":"이제 / 13분이 지났다."},
+            {"en":"Only 4 minutes are left, and you are on the starting side.","ko":"오직 4분만 남아 있다 / 그리고 너는 있다 / 출발한 쪽에."}
+          ]
+        },
+        {
+          "title": "p.90 · 해결 4–5",
+          "sentences": [
+            {"en":"Now the archer takes the stone and returns to you in 2 minutes.","ko":"이제 / 궁수가 그 돌을 가지고 / 너에게 돌아온다 / 2분 만에."},
+            {"en":"15 minutes have passed.","ko":"15분이 지났다."},
+            {"en":"Finally, you and the archer cross together in 2 minutes.","ko":"마지막으로 / 너와 궁수가 / 함께 건넌다 / 2분 만에."}
+          ]
+        },
+        {
+          "title": "p.90 · 결말",
+          "sentences": [
+            {"en":"That is it!","ko":"그게 전부다!"},
+            {"en":"Now everyone is on the other side!","ko":"이제 모두가 있다 / 반대편에!"},
+            {"en":"You quickly cut the ropes of the bridge.","ko":"너는 재빨리 자른다 / 다리의 밧줄을."},
+            {"en":"Everyone is safe, and the magic stone is yours!","ko":"모두가 안전하다 / 그리고 그 마법의 돌은 너의 것이다!"}
+          ]
+        }
+      ],
+      "keywords": [
+        {"sentence":"The monster is (    ) you.","answer":"following","choices":["following","falling","filling","feeling"]},
+        {"sentence":"You have to (    ) a bridge to survive.","answer":"cross","choices":["cross","crowd","crash","crawl"]},
+        {"sentence":"You have to cross a bridge to (    ).","answer":"survive","choices":["survive","serve","solve","save"]},
+        {"sentence":"The angry monster will (    ) with you in 17 minutes.","answer":"catch up","choices":["catch up","come up","take up","cut up"]},
+        {"sentence":"Each member of your group moves at a (    ) speed.","answer":"different","choices":["different","difficult","direct","distant"]},
+        {"sentence":"You are the (    ).","answer":"fastest","choices":["fastest","farthest","fairest","finest"]},
+        {"sentence":"The wizard is the (    ).","answer":"slowest","choices":["slowest","lowest","smallest","shortest"]},
+        {"sentence":"You need to (    ) a few things.","answer":"remember","choices":["remember","remain","remove","return"]},
+        {"sentence":"You need the (    ) from the magic stone.","answer":"light","choices":["light","right","night","sight"]},
+        {"sentence":"Only two of you can cross (    ) at a time.","answer":"safely","choices":["safely","slowly","softly","simply"]},
+        {"sentence":"Only two of you can cross safely (    ).","answer":"at a time","choices":["at a time","on time","in time","at times"]},
+        {"sentence":"All of you must (    ) the other side of the bridge.","answer":"reach","choices":["reach","react","realize","receive"]},
+        {"sentence":"If you all get there, you can cut the (    ).","answer":"ropes","choices":["ropes","roads","rocks","roots"]},
+        {"sentence":"Have you (    ) it out?","answer":"figured","choices":["figured","filled","followed","finished"]},
+        {"sentence":"You come back (    ) with the stone.","answer":"alone","choices":["alone","along","around","again"]},
+        {"sentence":"Now, 3 minutes have (    ).","answer":"passed","choices":["passed","past","paused","pushed"]},
+        {"sentence":"Only 4 minutes are (    ).","answer":"left","choices":["left","lost","last","late"]},
+        {"sentence":"The archer takes the stone and (    ) to you.","answer":"returns","choices":["returns","remains","reaches","remembers"]},
+        {"sentence":"(    ), you and the archer cross together.","answer":"Finally","choices":["Finally","Firstly","Usually","Suddenly"]},
+        {"sentence":"Everyone is (    ), and the magic stone is yours!","answer":"safe","choices":["safe","same","save","simple"]}
+      ],
+      "grammar": [
+        {"topic":"have to + 동사원형","sentence":"You have to (    ) a bridge to survive.","answer":"cross","choices":["cross","crossing","crossed","to cross"],"note":"have to 뒤에는 동사원형이 옵니다."},
+        {"topic":"to부정사의 목적","sentence":"You have to cross a bridge (    ) survive.","answer":"to","choices":["to","for","of","by"],"note":"to survive는 ‘살아남기 위해서’라는 목적을 나타냅니다."},
+        {"topic":"need to + 동사원형","sentence":"You need (    ) a few things.","answer":"to remember","choices":["to remember","remembering","remembered","to remembering"],"note":"need to 뒤에는 동사원형이 옵니다."},
+        {"topic":"need + 명사","sentence":"You need (    ) from the magic stone.","answer":"the light","choices":["the light","to light","lighting","lighted"],"note":"need 뒤에는 필요한 대상인 명사가 바로 올 수 있습니다."},
+        {"topic":"so + 형용사 + that","sentence":"It is (    ) dark that you need the light.","answer":"so","choices":["so","such","too","very"],"note":"so + 형용사 + that 절 구조입니다."},
+        {"topic":"so + 형용사 + that","sentence":"It is so dark (    ) you need the light.","answer":"that","choices":["that","what","which","where"],"note":"so ... that에서 결과절은 that으로 연결합니다."},
+        {"topic":"조동사 + 동사원형","sentence":"Only two of you can (    ) safely at a time.","answer":"cross","choices":["cross","crosses","crossed","crossing"],"note":"can 뒤에는 동사원형이 옵니다."},
+        {"topic":"must + 동사원형","sentence":"All of you must (    ) the other side.","answer":"reach","choices":["reach","reaches","reached","reaching"],"note":"must 뒤에는 동사원형이 옵니다."},
+        {"topic":"if 조건절","sentence":"If you all (    ) there, you can cut the ropes.","answer":"get","choices":["get","got","will get","getting"],"note":"미래 의미라도 if 조건절에서는 현재형을 사용합니다."},
+        {"topic":"최상급","sentence":"You are the (    ).","answer":"fastest","choices":["fastest","faster","fast","most fast"],"note":"여럿 중 가장 빠르므로 최상급 the fastest를 사용합니다."},
+        {"topic":"최상급","sentence":"The wizard is the (    ).","answer":"slowest","choices":["slowest","slower","slow","most slow"],"note":"여럿 중 가장 느리므로 the slowest가 맞습니다."},
+        {"topic":"현재완료","sentence":"3 minutes (    ).","answer":"have passed","choices":["have passed","has passed","passed","are passed"],"note":"복수 주어 minutes와 현재완료 have passed를 사용합니다."},
+        {"topic":"현재완료","sentence":"15 minutes (    ).","answer":"have passed","choices":["have passed","has passed","is passed","passing"],"note":"과거부터 지금까지 시간이 흘렀음을 현재완료로 표현합니다."},
+        {"topic":"수동태 · be left","sentence":"Only 4 minutes (    ).","answer":"are left","choices":["are left","is left","left","are leaving"],"note":"‘4분이 남아 있다’는 are left로 표현합니다."},
+        {"topic":"전치사 · return to","sentence":"The archer returns (    ) you in 2 minutes.","answer":"to","choices":["to","for","at","with"],"note":"return to + 사람/장소 형태입니다."},
+        {"topic":"소유대명사","sentence":"The magic stone is (    )!","answer":"yours","choices":["yours","your","you","yourself"],"note":"‘너의 것’은 소유대명사 yours를 사용합니다."}
+      ]
+    },
+    {"id":5,"title":"Lesson 5","comingSoon":true},
+    {"id":6,"title":"Lesson 6","comingSoon":true}
+  ]
+}
