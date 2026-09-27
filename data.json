@@ -1,0 +1,99 @@
+{
+  "lesson": "Lesson 5",
+  "title": "영영정의 빈칸 학습",
+  "words": [
+    {
+      "word": "strength",
+      "definition": "a quality or ability that gives you an advantage",
+      "meaning": "장점, 강점",
+      "questions": [
+        {"word":"strength","question":"a (    ) or ability that gives you an advantage","choices":["quantity","quality","qualify","equality"],"answer":"quality"},
+        {"word":"strength","question":"a quality or (    ) that gives you an advantage","choices":["activity","agility","ability","availability"],"answer":"ability"},
+        {"word":"strength","question":"a quality or ability that gives you an (    )","choices":["adventure","average","advantage","advance"],"answer":"advantage"}
+      ]
+    },
+    {"word":"goal","definition":"something that you hope to achieve","meaning":"목표","questions":[{"word":"goal","question":"something that you hope to (    )","choices":["acquire","achieve","archive","receive"],"answer":"achieve"}]},
+    {"word":"guitarist","definition":"a person who plays the guitar","meaning":"기타 연주자","questions":[{"word":"guitarist","question":"a person who plays the (    )","choices":["guard","guide","guitar","guest"],"answer":"guitar"}]},
+    {"word":"after-school","definition":"happening after normal school hours","meaning":"방과 후의","questions":[
+      {"word":"after-school","question":"(    ) after normal school hours","choices":["helping","happening","hearing","hoping"],"answer":"happening"},
+      {"word":"after-school","question":"happening after (    ) school hours","choices":["formal","natural","normal","moral"],"answer":"normal"},
+      {"word":"after-school","question":"happening after normal (    ) hours","choices":["stool","skill","school","schedule"],"answer":"school"},
+      {"word":"after-school","question":"happening after normal school (    )","choices":["honors","hours","houses","horses"],"answer":"hours"}
+    ]},
+    {"word":"hold","definition":"to have something such as an event, meeting, etc.","meaning":"열다, 개최하다","questions":[
+      {"word":"hold","question":"to have something such as an (    ), meeting, etc.","choices":["even","effect","event","ever"],"answer":"event"},
+      {"word":"hold","question":"to have something such as an event, (    ), etc.","choices":["meaning","meeting","melting","morning"],"answer":"meeting"}
+    ]},
+    {"word":"essay","definition":"a short piece of writing on a particular subject","meaning":"수필, 에세이","questions":[
+      {"word":"essay","question":"a short piece of (    ) on a particular subject","choices":["waiting","working","writing","reading"],"answer":"writing"},
+      {"word":"essay","question":"a short piece of writing on a particular (    )","choices":["object","project","subject","submit"],"answer":"subject"}
+    ]},
+    {"word":"sign up","definition":"to agree to take part in an organized activity","meaning":"신청하다","questions":[
+      {"word":"sign up","question":"to (    ) to take part in an organized activity","choices":["argue","appear","agree","allow"],"answer":"agree"},
+      {"word":"sign up","question":"to agree to take (    ) in an organized activity","choices":["past","path","pair","part"],"answer":"part"},
+      {"word":"sign up","question":"to agree to take part in an (    ) activity","choices":["original","ordinary","organized","ordered"],"answer":"organized"},
+      {"word":"sign up","question":"to agree to take part in an organized (    )","choices":["ability","activity","action","active"],"answer":"activity"}
+    ]},
+    {"word":"drama","definition":"the activity or art of performing in a play, show, etc.","meaning":"연극","questions":[
+      {"word":"drama","question":"the (    ) or art of performing in a play, show, etc.","choices":["ability","action","activity","active"],"answer":"activity"},
+      {"word":"drama","question":"the activity or (    ) of performing in a play, show, etc.","choices":["act","arm","art","area"],"answer":"art"},
+      {"word":"drama","question":"the activity or art of performing in a (    ), show, etc.","choices":["plan","place","play","player"],"answer":"play"}
+    ]},
+    {"word":"comment","definition":"something that you say or write that expresses your opinion","meaning":"의견, 댓글","questions":[
+      {"word":"comment","question":"something that you say or write that (    ) your opinion","choices":["explains","expects","expresses","experiences"],"answer":"expresses"},
+      {"word":"comment","question":"something that you say or write that expresses your (    )","choices":["option","operation","opinion","position"],"answer":"opinion"}
+    ]},
+    {"word":"move","definition":"a change of position or place","meaning":"움직임, 동작","questions":[
+      {"word":"move","question":"a (    ) of position or place","choices":["chance","charge","change","choice"],"answer":"change"},
+      {"word":"move","question":"a change of (    ) or place","choices":["portion","positive","position","condition"],"answer":"position"}
+    ]},
+    {"word":"presentation","definition":"a talk giving information about something","meaning":"발표","questions":[
+      {"word":"presentation","question":"a talk (    ) information about something","choices":["living","giving","getting","going"],"answer":"giving"},
+      {"word":"presentation","question":"a talk giving (    ) about something","choices":["invitation","information","introduction","instruction"],"answer":"information"}
+    ]},
+    {"word":"edit","definition":"to make changes to a text, film, etc.","meaning":"편집하다","questions":[
+      {"word":"edit","question":"to make (    ) to a text, film, etc.","choices":["chances","charges","changes","choices"],"answer":"changes"},
+      {"word":"edit","question":"to make changes to a text, (    ), etc.","choices":["fill","firm","film","file"],"answer":"film"}
+    ]},
+    {"word":"in front of","definition":"in a position that is just ahead of someone or something","meaning":"~ 앞에서","questions":[
+      {"word":"in front of","question":"in a (    ) that is just ahead of someone or something","choices":["condition","portion","position","possession"],"answer":"position"},
+      {"word":"in front of","question":"in a position that is just (    ) of someone or something","choices":["heard","head","ahead","abroad"],"answer":"ahead"}
+    ]},
+    {"word":"thankful","definition":"happy or grateful because of something","meaning":"고맙게 생각하는, 감사하는","questions":[{"word":"thankful","question":"happy or (    ) because of something","choices":["graceful","great","grateful","careful"],"answer":"grateful"}]},
+    {"word":"dot","definition":"a small round mark","meaning":"점","questions":[
+      {"word":"dot","question":"a small (    ) mark","choices":["sound","ground","round","found"],"answer":"round"},
+      {"word":"dot","question":"a small round (    )","choices":["mask","market","mark","make"],"answer":"mark"}
+    ]},
+    {"word":"sign","definition":"to write your name on something","meaning":"서명하다","questions":[
+      {"word":"sign","question":"to (    ) your name on something","choices":["white","right","write","writer"],"answer":"write"},
+      {"word":"sign","question":"to write your (    ) on something","choices":["same","game","name","nature"],"answer":"name"}
+    ]},
+    {"word":"mix","definition":"to put different things together to make something new","meaning":"섞다, 혼합하다","questions":[
+      {"word":"mix","question":"to put (    ) things together to make something new","choices":["difficult","difference","different","direct"],"answer":"different"},
+      {"word":"mix","question":"to put different things (    ) to make something new","choices":["toward","another","together","gather"],"answer":"together"},
+      {"word":"mix","question":"to put different things together to make something (    )","choices":["now","few","new","news"],"answer":"new"}
+    ]},
+    {"word":"blank","definition":"having no printing, writing, or images","meaning":"공백의, 빈","questions":[
+      {"word":"blank","question":"having no (    ), writing, or images","choices":["painting","pointing","printing","planting"],"answer":"printing"},
+      {"word":"blank","question":"having no printing, (    ), or images","choices":["waiting","reading","writing","working"],"answer":"writing"},
+      {"word":"blank","question":"having no printing, writing, or (    )","choices":["issues","items","images","ideas"],"answer":"images"}
+    ]},
+    {"word":"discover","definition":"to find out something that you did not know before","meaning":"발견하다, 알게 되다","questions":[
+      {"word":"discover","question":"to (    ) out something that you did not know before","choices":["fine","fill","find","finish"],"answer":"find"},
+      {"word":"discover","question":"to find out something that you did not (    ) before","choices":["now","known","know","knowledge"],"answer":"know"}
+    ]},
+    {"word":"printing","definition":"the act of producing letters, images, etc. on paper or other materials","meaning":"인쇄","questions":[
+      {"word":"printing","question":"the act of (    ) letters, images, etc. on paper or other materials","choices":["providing","protecting","producing","preparing"],"answer":"producing"},
+      {"word":"printing","question":"the act of producing letters, images, etc. on paper or other (    )","choices":["matters","methods","materials","machines"],"answer":"materials"}
+    ]},
+    {"word":"put together","definition":"to combine people or things, or organize something","meaning":"합하다","questions":[
+      {"word":"put together","question":"to (    ) people or things, or organize something","choices":["compare","complete","combine","continue"],"answer":"combine"},
+      {"word":"put together","question":"to combine people or things, or (    ) something","choices":["recognize","realize","organize","memorize"],"answer":"organize"}
+    ]},
+    {"word":"still","definition":"continuing from the past into the present","meaning":"아직도, 여전히","questions":[
+      {"word":"still","question":"(    ) from the past into the present","choices":["containing","considering","continuing","connecting"],"answer":"continuing"},
+      {"word":"still","question":"continuing from the (    ) into the present","choices":["part","pass","past","post"],"answer":"past"},
+      {"word":"still","question":"continuing from the past into the (    )","choices":["prevent","parent","present","percent"],"answer":"present"}
+    ]}
+  ]
+}
